@@ -1,0 +1,9 @@
+{
+  "theme": {
+    "background": "#121212",
+    "foreground": "#FFFFFF",
+    "accent": "#1DB954",
+    "danger": "#E81123",
+    "info": "#0078D7"
+  }
+}
