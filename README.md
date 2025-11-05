@@ -1,11 +1,7 @@
 # 🏆 GoalTrackr  
 
-![Python](https://img.shields.io/badge/Built%20with-Python-3776AB?logo=python&logoColor=white)  
-![Tkinter](https://img.shields.io/badge/Framework-Tkinter-0078D7?logo=windows&logoColor=white)  
-![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&logoColor=white)  
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
-![Dark Mode](https://img.shields.io/badge/UI-Dark%20Mode-black)  
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)  
+![Python](https://img.shields.io/badge/Built%20with-Python-3776AB?logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Framework-Tkinter-0078D7?logo=windows&logoColor=white) ![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&logoColor=white) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Dark Mode](https://img.shields.io/badge/UI-Dark%20Mode-black) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 
 ---
 
@@ -27,6 +23,7 @@ It helps users plan, organize, and track goals visually — featuring dark mode,
 ---
 
 ## 🗂️ Project Structure
+```
 GoalTrackr/
 │
 ├── main.py # Entry point
@@ -40,7 +37,7 @@ GoalTrackr/
 └── views/
 ├── gui.py # User interface & dark theme
 └── dashboard.py # Dashboard visualization
-
+```
 
 ---
 
